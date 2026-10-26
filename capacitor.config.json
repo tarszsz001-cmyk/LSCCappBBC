@@ -1,0 +1,20 @@
+{
+  "appId": "th.co.lscc.conceptb2",
+  "appName": "LSCC B2",
+  "webDir": "www",
+  "backgroundColor": "#FFFFFF",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#FFFFFF"
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#FFFFFF",
+      "overlaysWebView": false
+    }
+  }
+}
